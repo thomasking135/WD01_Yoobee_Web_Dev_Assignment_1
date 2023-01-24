@@ -1,5 +1,7 @@
-# WD01_Yoobee_Web_Dev_Assignment_1
+## WD01_Yoobee_Web_Dev_Assignment_1
 The building of a website built on HTML and CSS. 
+
+<img src="salty.JPG">
 
 The aim is to apply the fundamentals of HTML,CSS to develop a multiple-page
 website.
